@@ -1,5 +1,5 @@
 .TL
-FNS - File naming standard 0.1.0
+FNS - File naming standard 0.1.1
 .AU
 Vladislav Slepov
 .AI
@@ -41,7 +41,7 @@ Separators
 A user MUST NOT use " "(space) to separate parts of file names. Many GNU/Linux utilities
 such as "mv", "cp", "rm", etc. use a space character to separate arguments. Therefore, without escaping the file name "one two" would be interpreted as two different files.
 .PP
-A user instead SHOULD use "_"(underscore) or "-"(hyphen) characters as a separator.
+A user instead SHOULD use "_"(underscore) for separating words and "-"(hyphen) character for the purpose of sorting of files and appending timestamp.
 .NH 2
 Meaningfull extensions
 .PP

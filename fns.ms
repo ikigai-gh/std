@@ -11,7 +11,7 @@ system must follow in order to get the best experience while dealing with softwa
 .NH 1
 Conventions and terms
 .PP
-Consider some modal verbs that you will encounter when reading this standard, including:
+Consider some modal verbs that you will encounter while reading this standard, including:
 .IP \(bu 0.2i
 MUST: It's vital to hold some requirement. The opposite is strongly prohibited, because it can lead to incorrect behaviour of software;
 .IP \(bu
@@ -23,8 +23,8 @@ SHOULD NOT: You better NOT to do something for some reason, but you can do this 
 .NH 1
 Rationale
 .PP
-There are plenty of operating systems(Windows, GNU/Linux, BSD family, MacOS, etc.) and file systems(NTFS, ext4, Btrfs, HFS+ and so on). Each one of them has its own limitations on naming files.
-In order to feel yourself comfortable when using a PC, it is important to provide an easy and painless way to manipulate files.
+There are plenty of operating systems(Windows, GNU/Linux, BSD family, MacOS, etc.) and file systems(NTFS, ext4, Btrfs, HFS+ and so on). Each of them has its own limitations on naming files.
+In order to feel comfortable while using a PC, it is important to provide an easy and painless way to manipulate files.
 .NH 1
 Specification
 .NH 2
